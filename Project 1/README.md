@@ -20,30 +20,30 @@ To present recommendations to the US Department of Education on how to improve t
   - There are more states with 100% participation in ACT than SAT (15 states vs 8 states)
   - The states with bottom 10 participation rates for ACT has a participation range of: 6-22% while for SAT: 2-4%
 
-  <div align=”center”>
-  <img src="./img/2019 Participation Rate.png" width="500">
-  </div>
+  <p align=”center”>
+    <img src="./img/2019 Participation Rate.png" width="500">
+  </p>
 
 
 2. There seems to be an inverse correlation between SAT test participation rate and ACT test participation rate. From the chart below, we can see that states are concentrated on top left and bottom right corners - states with high participation rates in 1 test generally has much lower participation in the other.
 
-  <div align=”center”>
+  <p align=”center”>
   <img src="./img/State Participation.png" width="500">
-  </div>
+  </p>
 
 
 3. When we combine SAT and ACT participation rates, there are many states which have combined participation rate of less than 100%. This hinted to a gap where there are pockets of students not taking either of the tests. The top 5 states lagging behind are: Iowa (69%), Kansas (72%), South Dakota (75%), Alaska (79%) and New Mexico (81%)
 
-  <div align=”center”>
-  <img src="./img/Combined SAT + ACT Participations.png" width="500">
-  </div>
+  <p align=”center”>
+  <img src="./img/Combined SAT + ACT Participations.png" width="1000">
+  </p>
 
 
 4. There seems to be a positive correlation between test participation rate to state policy on administering / offering tests. States with such policies have high participation rates, as can be observed when comparing the chart below to the previous one.
 
-  <div align=”center”>
-  <img src="./img/State Policy.png" width="500">
-  </div>
+  <p align=”center”>
+  <img src="./img/State Policy.png" width="1000">
+  </p>
 
 
 5. Based on 2019 data, 2 states are lagging behind on both SAT and ACT scores, which are Oklahoma and South Carolina. Both the average SAT and ACT scores in these 2 states are lower than 25th percentile in each test.
